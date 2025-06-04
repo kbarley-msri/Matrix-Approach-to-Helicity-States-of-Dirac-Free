@@ -2,10 +2,11 @@
 
 ### 📘 *Proceedings of the Second International Workshop on Quantum Nonstationary Systems*  
 **Chapter 19**  
-**Authors:** Kamal K. Barley, Sergei K. Suslov, and Ben Goren  
+**Authors:** Sergei K. Suslov, Ben Goren, and Kamal K. Barley  
 **Event:** Second International Workshop on Quantum Nonstationary Systems  
 **Location:** Brazil | Publisher: LF Editorial  
-**Year:** 2025
+**Year:** 2025  
+**Web:** [LF Editorial – Proceedings](https://lfeditorial.com.br/produto/proceedings-of-the-second-international-workshop-on-quantum-nonstationary-systems/?srsltid=AfmBOorhjrxfdIugzsoHesN5HwMNCLmsU2ANqiMGze7dSrPrVkW9nRys)
 
 ---
 
@@ -30,17 +31,17 @@ The work presents a modern matrix-theoretic formulation for analyzing helicity s
 
 ## 🧠 Core Topics
 
-- Helicity States of Dirac Particles
-- Matrix Formalism for Spin-½ Particles
-- Pauli and Dirac Matrix Representations
-- Spinor Projectors and Density Matrices
+- Helicity States of Dirac Particles  
+- Matrix Formalism for Spin-½ Particles  
+- Pauli and Dirac Matrix Representations  
+- Spinor Projectors and Density Matrices  
 - Application to Quantum Field Theory and Relativistic Mechanics
 
 ---
 
 ## 🛠 Requirements
 
-- Wolfram Mathematica 12.0 or later
+- Wolfram Mathematica 12.0 or later  
 - No additional packages required
 
 ---
@@ -66,12 +67,13 @@ The work presents a modern matrix-theoretic formulation for analyzing helicity s
 If you use this work, please cite:
 
 ```
-@inproceedings{BarleySuslovGoren2025,
+@inproceedings{SuslovGorenBarley2025,
   title={Matrix Approach to Helicity States of Dirac Free Particles},
-  author={Kamal K. Barley and Sergei K. Suslov and Ben Goren},
+  author={Sergei K. Suslov and Ben Goren and Kamal K. Barley},
   booktitle={Proceedings of the Second International Workshop on Quantum Nonstationary Systems},
   year={2025},
-  publisher={LF Editorial}
+  publisher={LF Editorial},
+  url={https://lfeditorial.com.br/produto/proceedings-of-the-second-international-workshop-on-quantum-nonstationary-systems}
 }
 ```
 
@@ -79,9 +81,9 @@ If you use this work, please cite:
 
 ## 📬 Contact
 
-- Kamal K. Barley: [Kamal.Barley@howard.edu](mailto:Kamal.Barley@howard.edu)  
 - Sergei K. Suslov: [sks@asu.edu](mailto:sks@asu.edu)  
-- Ben Goren: [bgoren@asu.edu](mailto:bgoren@asu.edu)
+- Ben Goren: [bgoren@asu.edu](mailto:bgoren@asu.edu)  
+- Kamal K. Barley: [Kamal.Barley@howard.edu](mailto:Kamal.Barley@howard.edu)
 
 ---
 
