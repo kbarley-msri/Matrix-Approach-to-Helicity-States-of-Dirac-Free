@@ -2,7 +2,7 @@
 
 ### 📘 *Proceedings of the Second International Workshop on Quantum Nonstationary Systems*  
 **Chapter 19**  
-**Authors:** Kamal K. Barley and Sergei K. Suslov  
+**Authors:** Kamal K. Barley, Sergei K. Suslov, and Ben Goren  
 **Event:** Second International Workshop on Quantum Nonstationary Systems  
 **Location:** Brazil | Publisher: LF Editorial  
 **Year:** 2025
@@ -66,9 +66,9 @@ The work presents a modern matrix-theoretic formulation for analyzing helicity s
 If you use this work, please cite:
 
 ```
-@inproceedings{BarleySuslov2025,
+@inproceedings{BarleySuslovGoren2025,
   title={Matrix Approach to Helicity States of Dirac Free Particles},
-  author={Kamal K. Barley and Sergei K. Suslov},
+  author={Kamal K. Barley and Sergei K. Suslov and Ben Goren},
   booktitle={Proceedings of the Second International Workshop on Quantum Nonstationary Systems},
   year={2025},
   publisher={LF Editorial}
@@ -80,7 +80,8 @@ If you use this work, please cite:
 ## 📬 Contact
 
 - Kamal K. Barley: [Kamal.Barley@howard.edu](mailto:Kamal.Barley@howard.edu)  
-- Sergei K. Suslov: [sks@asu.edu](mailto:sks@asu.edu)
+- Sergei K. Suslov: [sks@asu.edu](mailto:sks@asu.edu)  
+- Ben Goren: [bgoren@asu.edu](mailto:bgoren@asu.edu)
 
 ---
 
